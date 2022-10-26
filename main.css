@@ -1,0 +1,71 @@
+@import url('../myfonts/stylesheet.css');
+body{
+  margin: 0;
+  text-align: center;
+
+       }
+html, body {
+         height: 100vh;
+         height: calc(var(--vh, 1vh) * 100);
+       }
+.modal {
+         width: 50vw;
+         height: 50vh;
+         height: calc(var(--vh, 1vh) * 50);
+       }
+
+h1{
+  font-family: 'Dancing Script', cursive;
+  color: #81C6E8;
+  font-size: 50px;
+}
+
+.block1{
+      height: 831px;
+      width: 1600px;
+      background-color: #B7E5DD; }
+h3{
+  color: #06113C;
+  font-family: 'Merriweather Sans';
+  }
+
+.cloud1{
+  margin-left: 375px;
+  }
+.cloud2{
+  margin-right: 500px;
+}
+h2{
+  font-family: 'Permanent Marker', cursive;
+  color: #00FFD1;
+  font-size: 30px;
+}
+.profile{
+  margin-top: 20px;
+}
+hr{
+  border-width: 10px;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  width: 7%;
+}
+p{
+  font-family: serif;
+  font-size: 20px;
+
+
+}
+.bottom-container{
+   margin-top: 10px;
+   background-color: #79B4B7;
+   height: 70px;
+   width: 1600px;
+}
+.block2{
+  background-color: #EFFFFD;
+  width: 1600px;
+}
+.copy{
+  font-size: 10px;
+}
